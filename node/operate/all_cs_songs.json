@@ -680,5 +680,16 @@
 		"artistName": "儿童圣经故事",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/cs20190106/cs/cs190106.mp3",
 		"id": 64190106
+	},
+	{
+		"time": "20190113",
+		"title": "神选的才算数",
+		"downUrl": "http://txly2.net/ly/audio/2019/cs/cs190113.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 64,
+		"artistName": "儿童圣经故事",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/cs20190113/cs/cs190113.mp3",
+		"id": 64190113
 	}
 ]
