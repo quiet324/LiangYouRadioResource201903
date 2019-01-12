@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181012",
-		"title": "靠主喜乐——腓立比书（11）知足与结语（腓4:10-23）（讲员：陈湘儿）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181012.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/be20181012/be/be181012.mp3",
-		"id": 36181012
-	},
-	{
 		"time": "20181013",
 		"title": "超越的基督——歌罗西书（1）歌罗西书的产生（讲员：周广亮）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181013.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/be20190112/be/be190112.mp3",
 		"id": 36190112
+	},
+	{
+		"time": "20190113",
+		"title": "创世记（13）亚伯拉罕信心软弱和操练、神的宽容和保守（创20:1-21:34）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190113.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190113/be/be190113.mp3",
+		"id": 36190113
 	}
 ]
