@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181012",
-		"title": "智慧语录：如果我不做基督徒了，我的人生会不会更加美好？亮丽人生不是梦：过犹不及——什么在我的界线之内？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181012.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ee20181012/ee/ee181012.mp3",
-		"id": 29181012
-	},
-	{
 		"time": "20181013",
 		"title": "智慧语录：北京深圳等各大城市，房租暴涨，我们真正的安乐窝到底在哪里？用智慧演绎人生：女儿，妳一直让我很放心",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181013.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/ee20190112/ee/ee190112.mp3",
 		"id": 29190112
+	},
+	{
+		"time": "20190113",
+		"title": "智慧语录：托尔斯泰的精辟语录；你的叮咛我最爱：盼望著再来",
+		"downUrl": "http://txly2.net/ly/audio/2019/ee/ee190113.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ee20190113/ee/ee190113.mp3",
+		"id": 29190113
 	}
 ]
