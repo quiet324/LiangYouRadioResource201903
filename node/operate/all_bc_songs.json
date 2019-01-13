@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181012",
-		"title": "彩虹花园：第四章、彩虹脚下-2；第五章、雪里的萌芽-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181012.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181012/bc/bc181012.mp3",
-		"id": 10181012
-	},
-	{
 		"time": "20181015",
 		"title": "信心日引：神的训练方法（创45:3）；俗世圣徒：第九章、伙伴-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181015.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/bc20190111/bc/bc190111.mp3",
 		"id": 10190111
+	},
+	{
+		"time": "20190114",
+		"title": "信心日引：接受不能改变的（传5:16-17）；做基督的管家：第八章、做婚姻的管家-6",
+		"downUrl": "http://txly2.net/ly/audio/2019/bc/bc190114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/bc20190114/bc/bc190114.mp3",
+		"id": 10190114
 	}
 ]
