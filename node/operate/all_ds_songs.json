@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181013",
-		"title": "从布道到培训：保罗的嘱咐（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181013.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181013/ds/ds181013.mp3",
-		"id": 46181013
-	},
-	{
 		"time": "20181014",
 		"title": "良院讲台：同走属灵的赛程（来12:1-2上；讲员：马贵）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181014.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190113/ds/ds190113.mp3",
 		"id": 46190113
+	},
+	{
+		"time": "20190114",
+		"title": "良院专区：学习天地（重庆唐姊妹）；公布《诗歌智慧书I》考题",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190114/ds/ds190114.mp3",
+		"id": 46190114
 	}
 ]
