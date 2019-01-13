@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181012",
-		"title": "信仰大擂台：基督徒的人生观──苦乐观、生死观、荣辱观……这些构成人生观的部分，支配着人活着的态度与方式。在单亲家庭长大的她，曾经体验过孤单无助的痛苦，曾经品尝过追求物质钱财的空虚不快乐，但如今基督信仰更新了她的人生观，让她勇于面对各样的挑战，不再惧怕地活着。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181012.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/im20181012/im/im181012.mp3",
-		"id": 14181012
-	},
-	{
 		"time": "20181015",
 		"title": "信仰大擂台：信上帝有什么好处之因病认识主──人总希望信上帝能得到眼见的好处，比如病得医治……别人向他传福音也抱有这样的想法，但他疑疑惑惑地接受，疾病却并没得到医治。还要不要信了呢？",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181015.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/im20190111/im/im190111.mp3",
 		"id": 14190111
+	},
+	{
+		"time": "20190114",
+		"title": "心磁场大平台：中国人的确不用过圣诞节──圣诞前后，关于抵制圣诞节、抵制洋节、弘扬中国传统文化的各类文章、报道和帖子甚嚣尘上，据说这样做的目的是为了爱国？从历史的角度看，中国人的确不用过圣诞节，因为……这从历史事实得出的结论不禁让人会心一笑。",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/im20190114/im/im190114.mp3",
+		"id": 14190114
 	}
 ]
