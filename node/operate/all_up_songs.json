@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181012",
-		"title": "教导儿女智财教育：第九课、信靠上帝（下）保守你的心胜过保守一切",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up181012.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/up20181012/up/up181012.mp3",
-		"id": 20181012
-	},
-	{
 		"time": "20181015",
 		"title": "让青春风暴变成青春风采（9岁-12岁）（8）孩子的穿着打扮；与父母促膝谈：特别的福利",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up181015.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201902/up20190111/up/up190111.mp3",
 		"id": 20190111
+	},
+	{
+		"time": "20190114",
+		"title": "让青春风暴变成青春风采（13岁-18岁）（2）交友提示；与父母促膝谈：不劳而获",
+		"downUrl": "http://txly2.net/ly/audio/2019/up/up190114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/up20190114/up/up190114.mp3",
+		"id": 20190114
 	}
 ]
