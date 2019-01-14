@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181014",
-		"title": "超越的基督——歌罗西书（2）基督的丰盛──歌罗西问题的解药（讲员：周广亮）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181014.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/be20181014/be/be181014.mp3",
-		"id": 36181014
-	},
-	{
 		"time": "20181015",
 		"title": "超越的基督——歌罗西书（3）歌罗西书的背景（讲员：周广亮）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181015.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190114/be/be190114.mp3",
 		"id": 36190114
+	},
+	{
+		"time": "20190115",
+		"title": "创世记（15）以撒的婚姻、以撒的儿子（创24-25、27-28章）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190115/be/be190115.mp3",
+		"id": 36190115
 	}
 ]
