@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181015",
-		"title": "不同的旅程",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181015.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/gn20181015/gn/gn181015.mp3",
-		"id": 22181015
-	},
-	{
 		"time": "20181016",
 		"title": "做父母的真智慧──延凤的故事",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181016.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/gn20190114/gn/gn190114.mp3",
 		"id": 22190114
+	},
+	{
+		"time": "20190115",
+		"title": "我知神掌管明天──陈星荣的故事",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/gn20190115/gn/gn190115.mp3",
+		"id": 22190115
 	}
 ]
