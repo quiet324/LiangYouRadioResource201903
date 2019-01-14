@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181014",
-		"title": "良院讲台：同走属灵的赛程（来12:1-2上；讲员：马贵）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181014.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181014/ds/ds181014.mp3",
-		"id": 46181014
-	},
-	{
 		"time": "20181015",
 		"title": "良院专区：听众回应“向老师致敬”周广亮牧师；公布《保罗书信II》、《罗马书》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181015.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190114/ds/ds190114.mp3",
 		"id": 46190114
+	},
+	{
+		"time": "20190115",
+		"title": "教牧新视野：逆境中的祷告（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190115/ds/ds190115.mp3",
+		"id": 46190115
 	}
 ]
