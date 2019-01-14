@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181015",
-		"title": "情感交流站：神大能胜过一切",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181015.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ut20181015/ut/ut181015.mp3",
-		"id": 18181015
-	},
-	{
 		"time": "20181016",
 		"title": "为神建立家室：不义者的工价",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181016.mp3",
@@ -718,5 +707,15 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ut20190114/ut/ut190114.mp3",
 		"id": 18190114
+	},
+	{
+		"time": "20190115",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ut20190115/ut/ut190115.mp3",
+		"id": 18190115
 	}
 ]
