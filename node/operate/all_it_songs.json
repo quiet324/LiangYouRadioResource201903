@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181016",
-		"title": "神说话的目的",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it181016.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/it20181016/it/it181016.mp3",
-		"id": 41181016
-	},
-	{
 		"time": "20181017",
 		"title": "神的吸引（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it181017.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/it20190115/it/it190115.mp3",
 		"id": 41190115
+	},
+	{
+		"time": "20190116",
+		"title": "逃兵的启示（1）",
+		"downUrl": "http://txly2.net/ly/audio/2019/it/it190116.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/it20190116/it/it190116.mp3",
+		"id": 41190116
 	}
 ]
