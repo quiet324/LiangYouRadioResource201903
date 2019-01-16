@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181017",
-		"title": "为神建立家室：恶仆的下场",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181017.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ut20181017/ut/ut181017.mp3",
-		"id": 18181017
-	},
-	{
 		"time": "20181018",
 		"title": "为神建立家室：讥诮的人",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181018.mp3",
@@ -716,5 +705,15 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ut20190116/ut/ut190116.mp3",
 		"id": 18190116
+	},
+	{
+		"time": "20190117",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190117.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ut20190117/ut/ut190117.mp3",
+		"id": 18190117
 	}
 ]
