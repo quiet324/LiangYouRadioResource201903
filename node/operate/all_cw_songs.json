@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181018",
-		"title": "来吧赞美：《神的道路》、《在主里的时刻》、《炼我愈精》、《主的恩典乃是一生之久》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181018.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cw20181018/cw/cw181018.mp3",
-		"id": 51181018
-	},
-	{
 		"time": "20181019",
 		"title": "赞美旋律：门德尔松第二号交响曲《赞美颂歌》（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181019.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/cw20190117/cw/cw190117.mp3",
 		"id": 51190117
+	},
+	{
+		"time": "20190118",
+		"title": "赞美旋律：贝多芬庄严弥撒之《荣耀颂》后半段",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/cw20190118/cw/cw190118.mp3",
+		"id": 51190118
 	}
 ]
