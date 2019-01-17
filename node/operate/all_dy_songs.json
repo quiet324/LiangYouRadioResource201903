@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181017",
-		"title": "好得无比，每一天：劝说（西3:23-24）；天路历程（8）；我爱背金句：罗10:14",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181017.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/dy20181017/dy/dy181017.mp3",
-		"id": 24181017
-	},
-	{
 		"time": "20181018",
 		"title": "好得无比，每一天：永不发霉的面包（加6:9）；天路历程（9）；我爱背金句：罗10:14",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181018.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/dy20190116/dy/dy190116.mp3",
 		"id": 24190116
+	},
+	{
+		"time": "20190117",
+		"title": "每日天粮：还要再渴（约4:13-14）；认识教会（10）（主持：程蒙恩）；我爱背金句：诗9:7-8",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190117.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/dy20190117/dy/dy190117.mp3",
+		"id": 24190117
 	}
 ]
