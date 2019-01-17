@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181017",
-		"title": "教养天国的小孩；款款你的故事：信仰不迷茫",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181017.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ynf20181017/ynf/ynf181017.mp3",
-		"id": 58181017
-	},
-	{
 		"time": "20181018",
 		"title": "雨中漫舞；祷告中的恩典；圣经词汇",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181018.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ynf20190117/ynf/ynf190117.mp3",
 		"id": 58190117
+	},
+	{
+		"time": "20190118",
+		"title": "心火故事：云南傈僳使者富能仁传记──《山雨》",
+		"downUrl": "http://txly2.net/ly/audio/2019/ynf/ynf190118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ynf20190118/ynf/ynf190118.mp3",
+		"id": 58190118
 	}
 ]
