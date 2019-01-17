@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181017",
-		"title": "超越的基督——歌罗西书（5）代祷、感恩与信仰（讲员：周广亮）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181017.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/be20181017/be/be181017.mp3",
-		"id": 36181017
-	},
-	{
 		"time": "20181018",
 		"title": "超越的基督——歌罗西书（6）耶稣基督是谁（讲员：周广亮）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181018.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190117/be/be190117.mp3",
 		"id": 36190117
+	},
+	{
+		"time": "20190118",
+		"title": "创世记（18）雅各的婚姻和事业（创29:1-31:55）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190118/be/be190118.mp3",
+		"id": 36190118
 	}
 ]
