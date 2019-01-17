@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181017",
-		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181017.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181017/ds/ds181017.mp3",
-		"id": 46181017
-	},
-	{
 		"time": "20181018",
 		"title": "宣教心之路：关顾宣教士的理念和实践（主持：姚谦、林诚）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181018.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190117/ds/ds190117.mp3",
 		"id": 46190117
+	},
+	{
+		"time": "20190118",
+		"title": "从布道到培训：神的拣选──保罗为以色列人伤痛（罗9:1-5；主持：卢文、杨天成）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/ds20190118/ds/ds190118.mp3",
+		"id": 46190118
 	}
 ]
