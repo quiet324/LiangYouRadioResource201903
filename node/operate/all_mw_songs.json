@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181017",
-		"title": "当物质缺乏时（王上17:1-16）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181017.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/mw20181017/mw/mw181017.mp3",
-		"id": 30181017
-	},
-	{
 		"time": "20181018",
 		"title": "让老我死去（约12:20-26）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181018.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/mw20190117/mw/mw190117.mp3",
 		"id": 30190117
+	},
+	{
+		"time": "20190118",
+		"title": "在基督里夸胜（林后2:12-17）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190118.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/mw20190118/mw/mw190118.mp3",
+		"id": 30190118
 	}
 ]
