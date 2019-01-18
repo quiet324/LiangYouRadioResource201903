@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180624",
-		"title": "引导孩子更卓越──不打不骂培育优秀孩子（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180624.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/bf20180624/bf/bf180624.mp3",
-		"id": 1180624
-	},
-	{
 		"time": "20180630",
 		"title": "引导孩子更卓越──不打不骂培育优秀孩子（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180630.mp3",
@@ -624,5 +613,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/bf20190113/bf/bf190113.mp3",
 		"id": 1190113
+	},
+	{
+		"time": "20190119",
+		"title": "化离婚悲痛为荣耀（4）得医治；歌曲：《让爱继续蔓延》",
+		"downUrl": "http://txly2.net/ly/audio/2019/bf/bf190119.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/bf20190119/bf/bf190119.mp3",
+		"id": 1190119
 	}
 ]
