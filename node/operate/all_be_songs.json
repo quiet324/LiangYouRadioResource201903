@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181018",
-		"title": "超越的基督——歌罗西书（6）耶稣基督是谁（讲员：周广亮）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181018.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/be20181018/be/be181018.mp3",
-		"id": 36181018
-	},
-	{
 		"time": "20181019",
 		"title": "超越的基督——歌罗西书（7）我们是谁？（讲员：周广亮）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181019.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190118/be/be190118.mp3",
 		"id": 36190118
+	},
+	{
+		"time": "20190119",
+		"title": "创世记（19）雅各属灵生命的成长和改变（创32:1-33:20）（讲员：李重恩）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190119.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201903/be20190119/be/be190119.mp3",
+		"id": 36190119
 	}
 ]
